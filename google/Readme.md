@@ -1,7 +1,7 @@
-#1. connect to google cloud shell
+# 1. connect to google cloud shell
 ![image](https://github.com/khkwon01/kubernetes-for-oracle/assets/8789421/c24fde1c-5790-40fe-8a58-29b463c12f7a)
 
-#2. make goole kubernetes engine using shell
+# 2. make goole kubernetes engine using shell
 - setup zone
   - export MY_ZONE="Zone"
 - create gke with 2 vm nodes
